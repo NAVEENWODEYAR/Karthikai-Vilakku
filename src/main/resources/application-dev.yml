@@ -1,1 +1,14 @@
+# Developer environment,
 
+server:
+  port: 1
+  
+spring:
+  application:
+    name: Karthigai
+    
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
