@@ -1,7 +1,7 @@
 # Developer environment,
 
 server:
-  port: 1
+  port: 44444
   
 spring:
   application:
